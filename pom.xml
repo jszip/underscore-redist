@@ -25,7 +25,7 @@
 
   <groupId>org.jszip.redist</groupId>
   <artifactId>underscore</artifactId>
-  <version>1.2.4-SNAPSHOT</version>
+  <version>1.2.4</version>
   <packaging>jszip</packaging>
 
   <name>Underscore.js</name>
@@ -47,7 +47,7 @@
     <connection>scm:git:git://github.com/jszip/underscore-redist.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/underscore-redist.git</developerConnection>
     <url>http://github.com/jszip/underscore-redist/tree/master/</url>
-    <tag>HEAD</tag>
+    <tag>underscore-1.2.4</tag>
   </scm>
   <issueManagement>
     <system>github</system>
